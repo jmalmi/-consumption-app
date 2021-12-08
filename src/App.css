@@ -1,0 +1,82 @@
+body {
+  text-align: center;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td, th {
+  text-align: left;
+  padding: 3px;
+}
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+  background-color: rgb(96, 118, 134);
+  text-align: center;
+  color: white;
+  padding: 5px 0;
+  border-radius: 0 0 2px 2px;
+}
+
+ul {
+  list-style-type: square;
+  margin: 20px 0 20px 0;
+}
+
+
+input[type=submit] {
+  border: 1px solid #ccc;
+  margin-left: 15px;
+  padding: 5px 15px;
+  font-size: 16px;
+}
+
+#root {
+  width: 600px;
+  background-color:aliceblue;
+  border-radius: 3px;
+  padding: 0 15px 15px;
+  margin: 10px auto;
+  border: 1px solid #ddd;
+}
+
+span {
+  cursor: pointer;
+  color: red;
+  font-weight: bold;
+}
+button {
+  border: 1px solid #ccc;
+  margin-left: 15px;
+  padding: 5px 15px;
+  font-size: 16px;
+}
+.totalinfo {
+  text-align: left;
+  width: 100%;
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
+  list-style: none;
+  font-size: 70%;
+}
+.totalbutton{
+  line-height: 7px;
+  font-size: 10pt;
+  color: red;
+  float: right;
+}
+infotable {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
